@@ -8,7 +8,7 @@
 
 ## ✨ Fitur Utama
 
-*   **Pengenalan Perintah Suara Tingkat Lanjut:** Menerapkan sistem yang kuat untuk mendeteksi dan menginterpretasikan perintah suara tertentu, cocok untuk aplikasi interaksi suara.
+*   **Pengenalan Perintah Suara:** Menerapkan sistem yang kuat untuk mendeteksi dan menginterpretasikan perintah suara yakni: "maju", "mundur", "kanan", "kiri" dan "stop", cocok untuk aplikasi interaksi suara.
 *   **Ekstraksi Fitur MFCC:** Memanfaatkan koefisien cepstral frekuensi Mel untuk merepresentasikan sinyal audio secara efisien, menangkap karakteristik penting untuk klasifikasi suara yang akurat.
 *   **Klasifikasi Jaringan Saraf Konvolusional 1D (CNN):** Menggunakan arsitektur CNN satu dimensi yang dioptimalkan untuk tugas klasifikasi urutan, memungkinkan pemrosesan data audio yang canggih secara lokal.
 *   **Pengerahan EdgeImpulse:** Memanfaatkan platform EdgeImpulse untuk siklus hidup pengembangan, pelatihan, dan pengerahan model pembelajaran mesin yang mulus ke perangkat edge, memastikan efisiensi dan kompatibilitas sumber daya.
